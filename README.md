@@ -6,7 +6,7 @@ An interactive e-commerce template built with pure HTML, CSS, and JavaScript (jQ
 
 [**<< Click here to see the live project >>**](https://your-live-demo-link.com) 
 
-*(Note: Replace the link above with your actual live demo link after deploying the site.)*
+
 
 ---
 
@@ -65,41 +65,26 @@ This project is a complete front-end implementation of an e-commerce website for
 ## Features & Screenshots
 
 **Homepage with Dynamic Elements**
-![Homepage](https://i.imgur.com/your-image-link-1.png)
+![Homepage](<img width="1888" height="846" alt="image" src="https://github.com/user-attachments/assets/bb70d6de-7b26-490d-865a-fa87eb8f4ad1" />
+)
 
 **Shop Page with Filtering and Hover Effects**
-![Shop Page](https://i.imgur.com/your-image-link-2.png)
+![Shop Page](<img width="1877" height="857" alt="image" src="https://github.com/user-attachments/assets/d81e7d72-9d10-4a76-82b6-3c33c965ca83" />
+)
 
 **Dynamic Product Page with Price Updates**
-![Product Page](https://i.imgur.com/your-image-link-3.png)
+![Product Page](<img width="1286" height="838" alt="image" src="https://github.com/user-attachments/assets/015657f4-cc4d-4c0f-ae9b-6f8324df2bc0" />
+)
 
 **Sign-Up Form with Real-time Validation**
-![Sign-Up Form](https://i.imgur.com/your-image-link-4.png)
+![Sign-Up Form](<img width="522" height="578" alt="image" src="https://github.com/user-attachments/assets/a140b0e5-6973-4581-bbae-6b408c567d68" />
+)
 
-*(Note: You'll need to upload your screenshots to a service like Imgur and replace the links above.)*
 
----
-
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-1.  **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/your-repository-name.git
-    ```
-2.  **Navigate to the project directory:**
-    ```sh
-    cd your-repository-name
-    ```
-3.  **Open `index.html` in your browser:**
-    Simply open the `index.html` file in a web browser to view the project.
-
----
 
 ## Contact
 
 Youssef Wael
 
-- **Your Email:** (youssefwmk@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/youssef-wael-9b170026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Your Email:**[My Email] (youssefwmk@gmail.com)
+- **LinkedIn:**[Linkedin] (https://www.linkedin.com/in/youssef-wael-9b170026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
