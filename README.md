@@ -99,8 +99,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## Contact
 
-Farida Tamer, Youssef Wael, & Omar Hassan
+Youssef Wael
 
-- **Your Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/your-profile/)
-- **Project Link:** [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
+- **Your Email:** (youssefwmk@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/youssef-wael-9b170026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
