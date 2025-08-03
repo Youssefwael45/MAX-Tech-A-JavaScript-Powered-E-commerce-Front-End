@@ -4,7 +4,7 @@ An interactive e-commerce template built with pure HTML, CSS, and JavaScript (jQ
 
 ## Live Demo
 
-[**<< Click here to see the live project >>**](https://your-live-demo-link.com) 
+[**<< Click here to see the live project >>**](https://youssefwael45.github.io/MAX-Tech-A-JavaScript-Powered-E-commerce-Front-End/) 
 
 
 
